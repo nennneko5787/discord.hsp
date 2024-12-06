@@ -1,0 +1,8 @@
+LIBRARY "dhsp"
+
+EXPORTS
+	hsp3hpi_init		@1
+	DHSP_Initialize		@2
+	DHSP_Run			@3
+	DHSP_OnReady		@4
+	DHSP_GetClientUser	@5
